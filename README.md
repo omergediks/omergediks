@@ -4,12 +4,12 @@
  I'm a computer programming student at Ankara University. I develop mobile, desktop, and web applications, and I'm interested in database management.
 
 ## Skilss
-![HTML](https://img.shields.io/badge/HTML25-brightgreen)
-![CSS](https://img.shields.io/badge/CSS25-blue)
-![JavaScript](https://img.shields.io/badge/JavaScript25-yellow)
-![C#](https://img.shields.io/badge/C%2325-orange)
-![ASP.NET](https://img.shields.io/badge/ASP.NET5-purple)
-![SQL Server](https://img.shields.io/badge/SQL%20Server25-red)
+![HTML](https://img.shields.io/badge/HTML-brightgreen)
+![CSS](https://img.shields.io/badge/CSS-blue)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow)
+![C#](https://img.shields.io/badge/C%23-orange)
+![ASP.NET](https://img.shields.io/badge/ASP.NET-purple)
+![SQL Server](https://img.shields.io/badge/SQL%20Server-red)
 
 ## GitHub 
 
