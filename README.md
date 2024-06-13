@@ -12,7 +12,7 @@
 ![SQL Server](https://img.shields.io/badge/SQL%20Server-15%25-red)
 
 ## GitHub 
-[![Ömer Gedik'in GitHub İstatistikleri](https://github-readme-stats.vercel.app/api?username=omergediks)](https://github.com/omergediks)
+
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=omergediks&show_icons=true&locale=en&layout=compact" alt="omergediks" /></p>
 
