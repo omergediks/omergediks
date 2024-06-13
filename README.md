@@ -13,12 +13,12 @@
 - SQL Server
 
 ## Kullandığım Dillerin Yüzdelik Gösterimi
-![Dil Yüzdelikleri](https://img.shields.io/badge/HTML-20%25-brightgreen)
-![Dil Yüzdelikleri](https://img.shields.io/badge/CSS-15%25-blue)
-![Dil Yüzdelikleri](https://img.shields.io/badge/JavaScript-20%25-yellow)
-![Dil Yüzdelikleri](https://img.shields.io/badge/C%23-15%25-orange)
-![Dil Yüzdelikleri](https://img.shields.io/badge/ASP.NET-15%25-purple)
-![Dil Yüzdelikleri](https://img.shields.io/badge/SQL%20Server-15%25-red)
+![Dil_Yuzdeleri](https://img.shields.io/badge/HTML-20%25-brightgreen)
+![Dil_Yuzdeleri](https://img.shields.io/badge/CSS-15%25-blue)
+![Dil_Yuzdeleri](https://img.shields.io/badge/JavaScript-20%25-yellow)
+![Dil_Yuzdeleri](https://img.shields.io/badge/C%23-15%25-orange)
+![Dil_Yuzdeleri](https://img.shields.io/badge/ASP.NET-15%25-purple)
+![Dil_Yuzdeleri](https://img.shields.io/badge/SQL%20Server-15%25-red)
 
 ## GitHub 
 [![Ömer Gedik'in GitHub İstatistikleri](https://github-readme-stats.vercel.app/api?username=omergediks)](https://github.com/omergediks)
