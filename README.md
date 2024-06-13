@@ -3,16 +3,7 @@
 ## About me
  I'm a computer programming student at Ankara University. I develop mobile, desktop, and web applications, and I'm interested in database management.
 
-
-## Beceriler
-- HTML
-- CSS
-- JavaScript
-- C#
-- ASP.NET
-- SQL Server
-
-## Kullandığım Dillerin Yüzdelik Gösterimi
+## Skilss
 ![Dil_Yuzdeleri](https://img.shields.io/badge/HTML-20%25-brightgreen)
 ![Dil_Yuzdeleri](https://img.shields.io/badge/CSS-15%25-blue)
 ![Dil_Yuzdeleri](https://img.shields.io/badge/JavaScript-20%25-yellow)
