@@ -14,7 +14,9 @@ async function updateReadme() {
   const readmePath = 'README.md';
   let readmeContent = fs.readFileSync(readmePath, 'utf8');
   // TODO: README içeriğini dil yüzdeleri ile güncelle
-  // Örnek olarak: readmeContent = readmeContent.replace('DIL_YUZDELERI', JSON.stringify(data));
+  // README içeriğini dil yüzdeleri ile güncelle
+readmeContent = readmeContent.replace(/DIL_YUZDELERI/g, JSON.stringify(data));
+
   fs.writeFileSync(readmePath, readmeContent);
 }
 
